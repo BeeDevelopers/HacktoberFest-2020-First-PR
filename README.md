@@ -11,3 +11,16 @@ Este repositorio es para celebrar el Hacktoberfest 2020 🎉 de la mano de BeeDe
 📍 [Jayro Salazar](https://www.instagram.com/alanalv5/)<br>
 <img src="https://scontent.fmid2-1.fna.fbcdn.net/v/t1.0-1/c62.0.160.160a/p160x160/37027424_1831623990257732_7556330817929084928_o.jpg?_nc_cat=107&ccb=2&_nc_sid=dbb9e7&_nc_eui2=AeFn0i8V5A5YpI_CRG200jJOJCCzKNdeeyokILMo1157KsUUR-5r2fhhh94eyBrD6nBi-A_BusPPdjPMtjOg9zBC&_nc_ohc=72iU3eomcRcAX-zcSQp&_nc_ht=scontent.fmid2-1.fna&tp=27&oh=004c7f18279b09abf06858e8c4eafaac&oe=5FBBDDFD" width="100"><br>
 
+📍 [Diego Perez](https://www.instagram.com/diiego7u7/)<br>
+<img src="https://scontent-dfw5-1.xx.fbcdn.net/v/t1.0-9/61079827_2058453754284418_8723841055130124288_o.jpg?_nc_cat=105&ccb=2&_nc_sid=174925&_nc_eui2=AeFmp5v1yaxJhjENOgb7ElX2bODjCr4c719s4OMKvhzvXyTdEXftgXAS7DNuiDV8Td-YllbJhNhM1-OyGM9QqnQD&_nc_ohc=U5GarLb79mAAX_kTBUK&_nc_ht=scontent-dfw5-1.xx&oh=22362788a3e9796e57293b016a99be41&oe=5FB921D0" width="100"><br>
+
+📍 [Oscar Montes](https://www.facebook.com/oscar.lolero/)<br>
+<img src="https://scontent-dfw5-2.xx.fbcdn.net/v/t1.0-9/119209655_3509666489053351_6490120464480612430_o.jpg?_nc_cat=108&ccb=2&_nc_sid=09cbfe&_nc_ohc=_QpdFXLothUAX-JeHvC&_nc_ht=scontent-dfw5-2.xx&oh=a4ec6223cc029afd35149e651bf249dd&oe=5FBA368C" width="100"><br>
+
+📍 [Memo Rmz](https://www.instagram.com/memelungas)<br>
+<img src="https://scontent.fmex4-1.fna.fbcdn.net/v/t1.0-9/58375734_2754392991268901_5751535549550690304_n.jpg?_nc_cat=106&ccb=2&_nc_sid=174925&_nc_eui2=AeFjNsTfYN0znLKJyrpWlNEI9gHuWG01POn2Ae5YbTU86fHGQ0EUrujohotkPy4cz8jUUF1AWHHARgqJ9CFIX7di&_nc_ohc=E-lChK4FZwIAX-U4zyH&_nc_ht=scontent.fmex4-1.fna&oh=0512dff90c1263367657b636754f5e00&oe=5FB91B70" width="100"><br>
+
+📍 [Juan Aguilera](https://www.facebook.com/juan.aguilera41/)<br>
+<img src="https://scontent.fcyw4-1.fna.fbcdn.net/v/t1.0-9/89692110_1320314018160982_1771597133980368896_n.jpg?_nc_cat=103&ccb=2&_nc_sid=09cbfe&_nc_ohc=UDFw-VUYuAsAX8-uxD4&_nc_ht=scontent.fcyw4-1.fna&oh=23d6398d0483ff94ce5f7b8a0a23d4e7&oe=5FB91C54" width="100"><br>
+
+
