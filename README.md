@@ -7,3 +7,5 @@ Este repositorio es para celebrar el Hacktoberfest 2020 🎉 de la mano de BeeDe
 
 📍 [Alan Alvarez](https://www.instagram.com/alanalv5/)<br>
 <img src="https://scontent-dfw5-1.xx.fbcdn.net/v/t1.0-1/c0.38.200.200a/p200x200/120996787_1633732613466985_5051359686329306906_o.jpg?_nc_cat=101&ccb=2&_nc_sid=7206a8&_nc_ohc=m5KBA_vwuY8AX9dxXlY&_nc_ht=scontent-dfw5-1.xx&tp=27&oh=d87738573c7639edbe11ec0ed25f6cbb&oe=5FBA9B84" width="100"><br>
+📍 [Joel Martinez]( https://www.instagram.com/joel_slv.exe/?hl=es-la)<br>
+<img src=" https://i.pinimg.com/originals/03/0d/79/030d79644f497a8e06c7ed38f6cd550d.jpg" width="100"><br>
