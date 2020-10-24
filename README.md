@@ -8,6 +8,9 @@ Este repositorio es para celebrar el Hacktoberfest 2020 🎉 de la mano de BeeDe
 📍 [Alan Alvarez](https://www.instagram.com/alanalv5/)<br>
 <img src="https://scontent-dfw5-1.xx.fbcdn.net/v/t1.0-1/c0.38.200.200a/p200x200/120996787_1633732613466985_5051359686329306906_o.jpg?_nc_cat=101&ccb=2&_nc_sid=7206a8&_nc_ohc=m5KBA_vwuY8AX9dxXlY&_nc_ht=scontent-dfw5-1.xx&tp=27&oh=d87738573c7639edbe11ec0ed25f6cbb&oe=5FBA9B84" width="100"><br>
 
+📍 [Joel Martinez]( https://www.instagram.com/joel_slv.exe/?hl=es-la)<br>
+<img src=" https://i.pinimg.com/originals/03/0d/79/030d79644f497a8e06c7ed38f6cd550d.jpg" width="100"><br>
+
 📍 [Juan Luis](https://www.facebook.com/profile.php?id=100003527023456)<br>
 <img src="https://scontent.fgdl10-1.fna.fbcdn.net/v/t1.0-9/49192907_1899652146829001_807616364620546048_o.jpg?_nc_cat=100&ccb=2&_nc_sid=09cbfe&_nc_ohc=wdiGHyufd5wAX8AcIkI&_nc_ht=scontent.fgdl10-1.fna&oh=304ae7e36c407d7976c448d1f3638b2e&oe=5FB88803" width="100"><br> 
 
@@ -43,4 +46,3 @@ Este repositorio es para celebrar el Hacktoberfest 2020 🎉 de la mano de BeeDe
 
 📍 [Jair Chávez](https://www.facebook.com/jair.chavezislas.79/)<br>
 <img src="https://scontent.fgdl9-1.fna.fbcdn.net/v/t1.0-9/87048392_1471469859697921_4045866429851893760_n.jpg?_nc_cat=110&ccb=2&_nc_sid=09cbfe&_nc_ohc=vjMx35r-DxoAX8Oe-Yt&_nc_ht=scontent.fgdl9-1.fna&oh=ca6e1aaeba43c1f1c475c89b220c837c&oe=5FB9548E" width="100"><br>
-
