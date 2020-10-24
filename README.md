@@ -17,4 +17,7 @@ Este repositorio es para celebrar el Hacktoberfest 2020 🎉 de la mano de BeeDe
 📍 [Juan Aguilera](https://www.facebook.com/juan.aguilera41/)<br>
 <img src="https://scontent.fcyw4-1.fna.fbcdn.net/v/t1.0-9/89692110_1320314018160982_1771597133980368896_n.jpg?_nc_cat=103&ccb=2&_nc_sid=09cbfe&_nc_ohc=UDFw-VUYuAsAX8-uxD4&_nc_ht=scontent.fcyw4-1.fna&oh=23d6398d0483ff94ce5f7b8a0a23d4e7&oe=5FB91C54" width="100"><br>
 
+📍 [Angel Rangel](https://www.instagram.com/xandraco/)<br>
+<img src="https://scontent-lax3-1.xx.fbcdn.net/v/t1.0-9/91414541_2605701979672510_2415859850631184384_o.jpg?_nc_cat=100&ccb=2&_nc_sid=174925&_nc_eui2=AeGtvXa18z92LiHOBr_veL9s8qzDhkMpgEXyrMOGQymARXgibyCOGYK3n7MVM3Eyd8nCHoQVoUJafPNI_WP5MMOw&_nc_ohc=SPxJPhUfa3AAX9nW6Rb&_nc_ht=scontent-lax3-1.xx&oh=353f68169b753b6fae96b6794a93be59&oe=5FB9AB9D" width="100"><br>
+
 
