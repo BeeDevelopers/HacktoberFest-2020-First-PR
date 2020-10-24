@@ -26,8 +26,8 @@ Este repositorio es para celebrar el Hacktoberfest 2020 🎉 de la mano de BeeDe
 📍 [Roberto Flores](https://www.youtube.com/watch?v=g5ybJifUOTA&list=FLBPZDRa5za-0SsOduHmhXhA&index=13)<br>
 <img src="https://i.pinimg.com/564x/e8/f7/2e/e8f72e35c9d99b286562b4f6f1adcdfb.jpg" width="100"><br>
 
-📍 [Joel Martinez]( https://www.instagram.com/joel_slv.exe/?hl=es-la)<br>
-<img src=" https://i.pinimg.com/originals/03/0d/79/030d79644f497a8e06c7ed38f6cd550d.jpg" width="100"><br>
+📍 [Joel Martinez](https://www.instagram.com/joel_slv.exe/?hl=es-la)<br>
+<img src="https://i.pinimg.com/originals/03/0d/79/030d79644f497a8e06c7ed38f6cd550d.jpg" width="100"><br>
 
 📍 [Juan Luis](https://www.facebook.com/profile.php?id=100003527023456)<br>
 <img src="https://scontent.fgdl10-1.fna.fbcdn.net/v/t1.0-9/49192907_1899652146829001_807616364620546048_o.jpg?_nc_cat=100&ccb=2&_nc_sid=09cbfe&_nc_ohc=wdiGHyufd5wAX8AcIkI&_nc_ht=scontent.fgdl10-1.fna&oh=304ae7e36c407d7976c448d1f3638b2e&oe=5FB88803" width="100"><br> 
