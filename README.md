@@ -11,6 +11,21 @@ Este repositorio es para celebrar el Hacktoberfest 2020 🎉 de la mano de BeeDe
 📍 [Oscar Montes](https://www.facebook.com/oscar.lolero/)<br>
 <img src="https://scontent-dfw5-2.xx.fbcdn.net/v/t1.0-9/119209655_3509666489053351_6490120464480612430_o.jpg?_nc_cat=108&ccb=2&_nc_sid=09cbfe&_nc_ohc=_QpdFXLothUAX-JeHvC&_nc_ht=scontent-dfw5-2.xx&oh=a4ec6223cc029afd35149e651bf249dd&oe=5FBA368C" width="100"><br>
 
+📍 [Joel Martinez]( https://www.instagram.com/joel_slv.exe/?hl=es-la)<br>
+<img src=" https://i.pinimg.com/originals/03/0d/79/030d79644f497a8e06c7ed38f6cd550d.jpg" width="100"><br>
+
+📍 [Juan Luis](https://www.facebook.com/profile.php?id=100003527023456)<br>
+<img src="https://scontent.fgdl10-1.fna.fbcdn.net/v/t1.0-9/49192907_1899652146829001_807616364620546048_o.jpg?_nc_cat=100&ccb=2&_nc_sid=09cbfe&_nc_ohc=wdiGHyufd5wAX8AcIkI&_nc_ht=scontent.fgdl10-1.fna&oh=304ae7e36c407d7976c448d1f3638b2e&oe=5FB88803" width="100"><br> 
+
+📍 [Oscar Montes](https://www.facebook.com/oscar.lolero/)<br>
+<img src="https://scontent-dfw5-2.xx.fbcdn.net/v/t1.0-9/119209655_3509666489053351_6490120464480612430_o.jpg?_nc_cat=108&ccb=2&_nc_sid=09cbfe&_nc_ohc=_QpdFXLothUAX-JeHvC&_nc_ht=scontent-dfw5-2.xx&oh=a4ec6223cc029afd35149e651bf249dd&oe=5FBA368C" width="100"><br>
+
+📍 [Fernanda Paredes](https://www.facebook.com/fernanda.paredes.104855/)<br>
+<img src="https://scontent.fcyw4-1.fna.fbcdn.net/v/t1.0-9/121109381_664462274481950_6930340913410002609_o.jpg?_nc_cat=101&ccb=2&_nc_sid=09cbfe&_nc_ohc=Qp4BnFsnrcQAX-jAp-d&_nc_ht=scontent.fcyw4-1.fna&oh=6bb5c98bbef35ed55831940f0dacd124&oe=5FBADEB0" width="100"><br>
+
+📍 [Estrella Razo](https://www.instagram.com/estrellargz/)<br>
+<img src="https://scontent.fgdl3-1.fna.fbcdn.net/v/t1.0-9/87384974_873830513058749_5742351646751457280_o.jpg?_nc_cat=108&ccb=2&_nc_sid=174925&_nc_ohc=EnoIVtwPQysAX80RV_2&_nc_ht=scontent.fgdl3-1.fna&oh=83efe5685c3025e562378e84b18a83a8&oe=5FBB4C4E" width="100"><br>
+
 📍 [Naydelin Zavala](https://www.facebook.com/nayde.zavl/)<br>
 <img src="https://scontent.fcyw3-1.fna.fbcdn.net/v/t1.0-9/118311377_1738954719576216_4140373725885807927_o.jpg?_nc_cat=110&ccb=2&_nc_sid=174925&_nc_ohc=JUgm50lany8AX8hONKW&_nc_ht=scontent.fcyw3-1.fna&oh=2e6c1e1c4bcf1aa766b0e31b5c5684a3&oe=5FB98A8A" width="100"><br>
 
@@ -28,3 +43,13 @@ Este repositorio es para celebrar el Hacktoberfest 2020 🎉 de la mano de BeeDe
 
 📍 [Martin Maciel](https://www.facebook.com/tacos.al.pastor.idk)<br>
 <img src="https://scontent.fgdl10-1.fna.fbcdn.net/v/t1.0-9/120296196_2656507547899106_2425206862567908549_o.jpg?_nc_cat=111&ccb=2&_nc_sid=09cbfe&_nc_eui2=AeEJYXTSqNyzfFuoZwPqpJOJnCqE5vdC_NycKoTm90L83AG_qy-ATP8B2JII_gPkVbFmVnn3K7owqMFSbyjNlDKJ&_nc_ohc=Z6_Sq2qcWg8AX-1Bz7G&_nc_ht=scontent.fgdl10-1.fna&oh=1265b3543704e061f92f9ca09d864d11&oe=5FB8375C" width="100"><br>
+
+📍 [Angel Rangel](https://www.instagram.com/xandraco/)<br>
+<img src="https://scontent-lax3-1.xx.fbcdn.net/v/t1.0-9/91414541_2605701979672510_2415859850631184384_o.jpg?_nc_cat=100&ccb=2&_nc_sid=174925&_nc_eui2=AeGtvXa18z92LiHOBr_veL9s8qzDhkMpgEXyrMOGQymARXgibyCOGYK3n7MVM3Eyd8nCHoQVoUJafPNI_WP5MMOw&_nc_ohc=SPxJPhUfa3AAX9nW6Rb&_nc_ht=scontent-lax3-1.xx&oh=353f68169b753b6fae96b6794a93be59&oe=5FB9AB9D" width="100"><br>
+
+📍 [Ángel Ramirez](https://www.facebook.com/angeel.ramirez.581)<br>
+<img src="https://scontent.fcyw4-1.fna.fbcdn.net/v/t1.0-9/118772894_1095849804143437_5692560039643258158_o.jpg?_nc_cat=104&ccb=2&_nc_sid=09cbfe&_nc_ohc=rgkb5Rj443sAX-n74Ml&_nc_ht=scontent.fcyw4-1.fna&oh=9386264b479a7f96baedae30bc6e3962&oe=5FBA3F08" width="100"><br>
+
+📍 [Jair Chávez](https://www.facebook.com/jair.chavezislas.79/)<br>
+<img src="https://scontent.fgdl9-1.fna.fbcdn.net/v/t1.0-9/87048392_1471469859697921_4045866429851893760_n.jpg?_nc_cat=110&ccb=2&_nc_sid=09cbfe&_nc_ohc=vjMx35r-DxoAX8Oe-Yt&_nc_ht=scontent.fgdl9-1.fna&oh=ca6e1aaeba43c1f1c475c89b220c837c&oe=5FB9548E" width="100"><br>
+
